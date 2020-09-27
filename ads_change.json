@@ -1,0 +1,26 @@
+{
+"Iklan": [
+{
+
+"fan_inters_id": "301473187937031_303267494424267",
+"fan_banner_id": "301473187937031_303268411090842",
+"admob_banner_id":"ca-app-pub-3940256099942544/6300978111",
+"admob_inters_id":"ca-app-pub-3940256099942544/1033173712",
+"ads_setting": "2"
+
+}
+],
+
+"fan_bears_cute": [
+{
+
+"fan_inters_id": "000",
+"fan_native_id": "000",
+"fan_banner_id": "00000",
+"admob_banner_id":"ca-app-pub-3940256099942544/6300978111",
+"admob_inters_id":"ca-app-pub-3940256099942544/1033173712",
+"ads_setting": "1"
+
+}
+]
+}

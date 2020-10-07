@@ -40,9 +40,9 @@
 "fan_anime_kawai": [
 {
 
-"fan_inters_id": "204836464285392_204836840952021",
-"fan_native_id": "204836464285392_208366003932438",
-"fan_banner_id": "204836464285392_208616687240703",
+"fan_inters_id": "",
+"fan_native_id": "",
+"fan_banner_id": "",
 "admob_banner_id":"ca-app-pub-3940256099942544/6300978111",
 "admob_inters_id":"ca-app-pub-3940256099942544/1033173712",
 "ads_setting": "1"
@@ -53,9 +53,22 @@
 "fan_koala": [
 {
 
-"fan_inters_id": "204836464285392_204836840952021",
-"fan_native_id": "204836464285392_208366003932438",
-"fan_banner_id": "204836464285392_208616687240703",
+"fan_inters_id": "301473187937031_303267494424267",
+"fan_native_id": "301473187937031_301473767936973",
+"fan_banner_id": "301473187937031_303268411090842",
+"admob_banner_id":"ca-app-pub-3940256099942544/6300978111",
+"admob_inters_id":"ca-app-pub-3940256099942544/1033173712",
+"ads_setting": "1"
+
+}
+],
+  
+"fan_tahilalers": [
+{
+
+"fan_inters_id": "2368974536731349_2369350656693737",
+"fan_native_id": "2368974536731349_2369310830031053",
+"fan_banner_id": "2368974536731349_2368975810064555",
 "admob_banner_id":"ca-app-pub-3940256099942544/6300978111",
 "admob_inters_id":"ca-app-pub-3940256099942544/1033173712",
 "ads_setting": "1"

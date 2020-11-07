@@ -19,7 +19,10 @@
 "fan_banner_id": "204836464285392_208616687240703",
 "admob_banner_id":"ca-app-pub-3940256099942544/6300978111",
 "admob_inters_id":"ca-app-pub-3940256099942544/1033173712",
-"ads_setting": "1"
+"mopub_inters_id": "b195f8dd8ded45fe847ad89ed1d016da",
+"mopub_native_id": "",
+"mopub_banner_id": "",
+"ads_setting": "3"
 
 }
 ],

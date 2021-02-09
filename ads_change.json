@@ -22,10 +22,10 @@
 "mopub_inters_id": "9e61b3f1da5c41f8be1275b5d7c8b111",
 "mopub_native_id": "8c6ed2b1b8884335ad5c5ea927cea7a5",
 "mopub_banner_id": "cdda4749b5894554b5cd801e533b3718",
+"ads_setting": "4",
 "unity_id": "3906609",
 "unity_banner": "bannerList",
-"unity_inters": "AddVideo",
-"ads_setting": "4"
+"unity_inters": "AddVideo"
 }
 ],
   
@@ -43,8 +43,10 @@
 "unity_id": "3897097",
 "unity_banner": "ListDetails",
 "unity_inters": "video",
-"ads_setting": "4"
-
+"ads_setting": "4",
+"unity_id": "3897097",
+"unity_banner": "ListDetails",
+"unity_inters": "video"
 }
 ],
   
@@ -69,7 +71,10 @@
 "fan_banner_id": "301473187937031_303268411090842",
 "admob_banner_id":"ca-app-pub-3940256099942544/6300978111",
 "admob_inters_id":"ca-app-pub-3940256099942544/1033173712",
-"ads_setting": "1"
+"ads_setting": "2",
+"unity_id": "4007117",
+"unity_banner": "ListDetails",
+"unity_inters": "video"
 
 }
 ],
@@ -83,7 +88,6 @@
 "admob_banner_id":"ca-app-pub-3940256099942544/6300978111",
 "admob_inters_id":"ca-app-pub-3940256099942544/1033173712",
 "ads_setting": "1"
-
 }
 ],
   
